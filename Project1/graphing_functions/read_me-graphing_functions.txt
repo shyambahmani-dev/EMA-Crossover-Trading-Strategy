@@ -1,1 +1,0 @@
-Basic functions for plotting and GUI technical analysis tools 
