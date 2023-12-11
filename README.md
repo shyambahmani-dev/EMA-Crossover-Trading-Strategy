@@ -8,8 +8,7 @@ Period: December 22, 2021, to December 11, 2023
 
 Insights:
 
-    Exceptional total returns, outperforming the benchmark by a substantial margin.
-    Significant excess returns demonstrate the strategy's effectiveness in capturing market movements.
+Exceptional total returns, outperforming the benchmark by a substantial margin and with significant excess returns, demonstrating the strategy's effectiveness in capturing market movements.
 
 2. CAGR Analysis
 
@@ -18,17 +17,14 @@ Insights:
 
 Insights:
 
-    Strong Compound Annual Growth Rate (CAGR), indicating consistent and impressive growth.
-    Excess CAGR showcases a well-structured strategy with the potential for sustained success.
+Strong Compound Annual Growth Rate (CAGR), indicating consistent and impressive growth, and the excess CAGR showcases a well-structured strategy with the potential for sustained success.
 
 3. AUC Analysis
 
     AUC Ratio: 1.137
 
 Insights:
-
-    AUC analysis reflects consistent outperformance compared to the market.
-    AUC Ratio of 1.137 indicates superior performance over the analyzed period.
+AUC Ratio of 1.137 reflects consistent outperformance compared to the market.
 
 4. Market Deviation Analysis
 
@@ -37,17 +33,14 @@ Insights:
 
 Insights:
 
-    Positive deviations from the market throughout the period.
-    Maximum deviation of 21.060% and an average deviation of 13.628% demonstrate effective trend capture.
+Positive deviations from the market throughout the period, and maximum deviation of 21.060% and an average deviation of 13.628% demonstrate effective trend capture.
 
 5. Sharpe Ratio Analysis
 
     Sharpe Ratio: 0.420
 
 Insights:
-
-    A Sharpe Ratio of 0.420 indicates positive returns with efficient risk-adjusted performance.
-    Reflects a well-balanced approach to generating returns while managing risk.
+A Sharpe Ratio of 0.420 indicates positive returns with efficient risk-adjusted performance compared to benchmark sharpe ratio of 0.187.
 
 
 ![ema_crossover-^NSEI-1h-(2021-12-22 - 2023-22-12)](https://github.com/shyambahmani-dev/EMA-Crossover-Trading-Strategy/assets/110190548/1ca1daee-2b8a-40d0-b448-199025452a56)
