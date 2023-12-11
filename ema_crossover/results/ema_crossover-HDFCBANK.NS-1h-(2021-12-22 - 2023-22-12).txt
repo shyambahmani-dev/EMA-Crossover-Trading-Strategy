@@ -1,0 +1,39 @@
+Strategy ema_crossover applied on HDFCBANK.NS at interval of 1h for 1.969 years from 2021-12-22 to 2023-12-11 
+ 
+
+:: Total Returns :: 
+
+Strategy : 28.491   
+Benchmark : 14.414  
+Excess : 14.076     
+
+
+
+:: CAGR analysis :: 
+
+Strategy : 13.580   
+Market : 7.079      
+Excess : 6.501
+
+
+
+:: AUC analysis ::
+
+AUC of Portfolio = 3944918639.761
+AUC of Market = 3608406338.994
+AUC ratio = 1.093
+
+
+
+:: Market deviation analysis ::
+
+Max up from market = 0.172
+Max Down from market = -0.064
+Average Up from market = 0.093
+
+
+
+:: Sharpe Ratio analysis ::
+
+Sharpe Ratio of Portfolio = 0.191
+Sharpe Ratio of Benchmark = 0.098

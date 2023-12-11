@@ -1,0 +1,39 @@
+Strategy ema_crossover applied on ^NSEI at interval of 1h for 1.969 years from 2021-12-22 to 2023-12-11
+
+
+:: Total Returns :: 
+
+Strategy : 46.573
+Benchmark : 24.361
+Excess : 22.212
+
+
+
+:: CAGR analysis ::
+
+Strategy : 21.436
+Market : 11.711
+Excess : 9.725
+
+
+
+:: AUC analysis ::
+
+AUC of Portfolio = 4124506200.531
+AUC of Market = 3628121547.906
+AUC ratio = 1.137
+
+
+
+:: Market deviation analysis ::
+
+Max up from market = 0.211
+Max Down from market = 0.000
+Average Up from market = 0.136
+
+
+
+:: Sharpe Ratio analysis ::
+
+Sharpe Ratio of Portfolio = 0.420
+Sharpe Ratio of Benchmark = 0.187

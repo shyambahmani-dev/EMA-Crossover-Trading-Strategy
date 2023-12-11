@@ -1,0 +1,39 @@
+Strategy ema_crossover applied on SBIN.NS at interval of 1h for 1.969 years from 2021-12-22 to 2023-12-11
+
+
+:: Total Returns :: 
+
+Strategy : 57.610
+Benchmark : 35.238
+Excess : 22.373
+
+
+
+:: CAGR analysis ::
+
+Strategy : 25.998
+Market : 16.571
+Excess : 9.427
+
+
+
+:: AUC analysis ::
+
+AUC of Portfolio = 4486314482.333
+AUC of Market = 4077635623.016
+AUC ratio = 1.100
+
+
+
+:: Market deviation analysis ::
+
+Max up from market = 0.220
+Max Down from market = -0.074
+Average Up from market = 0.099
+
+
+
+:: Sharpe Ratio analysis ::
+
+Sharpe Ratio of Portfolio = 0.305
+Sharpe Ratio of Benchmark = 0.183
